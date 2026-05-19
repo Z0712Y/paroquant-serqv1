@@ -1,3 +1,4 @@
+本版本主要修改：用用serq基于显著性分数的贪心选择策略，替代paroquant随机洗牌步骤
 ===========================（1）环境准备===========================
 git clone -b legacy https://github.com/z-lab/paroquant
 cd paroquant
